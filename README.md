@@ -1,5 +1,12 @@
-To become an expert-level Python programmer, it's important to have a structured plan that covers both fundamental
-concepts and advanced topics. Here's a roadmap to guide your journey:
+# Python Mastery
+
+## An introduction to Python programming.
+
+Want to become an expert-level Python programmer?
+It is important to have a structured plan that covers both fundamental
+concepts and advanced topics.
+
+### Here's a roadmap to guide your journey:
 
 ### 1. Master the Basics
 
@@ -52,6 +59,18 @@ concepts and advanced topics. Here's a roadmap to guide your journey:
 - Consider obtaining Python certifications from recognized organizations or platforms.
 
 - [PCEP™ – Certified Entry-Level Python Programmer](https://pythoninstitute.org/pcep)
+
+## Book List
+
+1. [Python Object-Oriented Programming](https://a.co/d/69MOC8L)
+2. [Learn Python Programming](https://a.co/d/1ecRlxC)
+3. [Mastering Python](https://a.co/d/fvdjbP2)
+4. [Advanced Python Programming](https://a.co/d/2J4GiqR)
+5. [Clean Code in Python](https://a.co/d/8ThNkZq)
+6. [Python for Geeks](https://www.amazon.com/Python-Geeks-production-ready-applications-practices-ebook/dp/B096SZKQ3K/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=)
+7. [40 Algorithms Every Programmer Should Know](https://a.co/d/dsnWre8)
+8. [The Python Workshop](https://a.co/d/2N8qFX1)
+9. [Crafting Test-Driven Software with Python](https://a.co/d/eijC6Ov)
 
 Remember, becoming an expert is a journey. It requires time, patience, and consistent effort. The key is to practice
 regularly, stay curious, and continually challenge yourself with increasingly complex problems and projects.
