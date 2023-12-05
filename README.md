@@ -51,5 +51,7 @@ concepts and advanced topics. Here's a roadmap to guide your journey:
 
 - Consider obtaining Python certifications from recognized organizations or platforms.
 
+- [PCEP™ – Certified Entry-Level Python Programmer](https://pythoninstitute.org/pcep)
+
 Remember, becoming an expert is a journey. It requires time, patience, and consistent effort. The key is to practice
 regularly, stay curious, and continually challenge yourself with increasingly complex problems and projects.
