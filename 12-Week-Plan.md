@@ -7,8 +7,8 @@ Here's a structured learning plan to master the basics of Python:
 
 ### Week 3-4: Control Structures and Data Structures
 
-- **Week 3**: Focus on control structures - if statements, for and while loops, break and continue statements.
-- **Week 4**: Introduction to basic data structures - lists, tuples, sets, and dictionaries. Practice creating and
+- **Day 1**: Focus on control structures - if statements, for and while loops, break and continue statements.
+- **Day 2**: Introduction to basic data structures - lists, tuples, sets, and dictionaries. Practice creating and
   manipulating them.
 
 ### Week 5-6: Functions and Error Handling
