@@ -1,35 +1,33 @@
-Here's a structured learning plan to master the basics of Python:
-
-### Week 1-2: Python Basics
+### Unit 1-2: Python Basics
 
 - **Day 1-3**: Introduction to Python. Setup Python environment, understand Python syntax, and write basic programs.
 - **Day 4-7**: Learn about data types (strings, numbers, booleans), operators, and basic input/output.
 
-### Week 3-4: Control Structures and Data Structures
+### Unit 3-4: Control Structures and Data Structures
 
 - **Day 1**: Focus on control structures - if statements, for and while loops, break and continue statements.
 - **Day 2**: Introduction to basic data structures - lists, tuples, sets, and dictionaries. Practice creating and
   manipulating them.
 
-### Week 5-6: Functions and Error Handling
+### Unit 5-6: Functions and Error Handling
 
 - **Day 1**: Learn to write functions, understand scope, and pass arguments. Explore built-in functions.
 - **Day 2**: Basics of error and exception handling. Understand try-except blocks.
 
-### Week 7-8: File Handling and Modules
+### Unit 7-8: File Handling and Modules
 
-- **Week 7**: Introduction to file handling - reading from and writing to files.
-- **Week 8**: Learn about Python modules and how to import them. Explore a few standard libraries.
+- **Unit 7**: Introduction to file handling - reading from and writing to files.
+- **Unit 8**: Learn about Python modules and how to import them. Explore a few standard libraries.
 
-### Week 9-10: Object-Oriented Programming
+### Unit 9-10: Object-Oriented Programming
 
-- **Week 9**: Introduction to classes and objects. Understand the basics of object-oriented programming.
-- **Week 10**: Dive deeper into OOP concepts - inheritance, encapsulation, and polymorphism.
+- **Unit 9**: Introduction to classes and objects. Understand the basics of object-oriented programming.
+- **Unit 10**: Dive deeper into OOP concepts - inheritance, encapsulation, and polymorphism.
 
-### Week 11-12: Mini Projects and Review
+### Unit 11-12: Mini Projects and Review
 
-- **Week 11**: Start working on a simple project, like a calculator, a basic game, or a simple data processing tool.
-- **Week 12**: Review all the topics. Revisit areas where you feel less confident and refine your project.
+- **Unit 11**: Start working on a simple project, like a calculator, a basic game, or a simple data processing tool.
+- **Unit 12**: Review all the topics. Revisit areas where you feel less confident and refine your project.
 
 ### Additional Tips:
 
