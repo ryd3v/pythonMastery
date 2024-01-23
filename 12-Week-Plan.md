@@ -14,7 +14,7 @@ Here's a structured learning plan to master the basics of Python:
 ### Week 5-6: Functions and Error Handling
 
 - **Day 1**: Learn to write functions, understand scope, and pass arguments. Explore built-in functions.
-- **Week 6**: Basics of error and exception handling. Understand try-except blocks.
+- **Day 2**: Basics of error and exception handling. Understand try-except blocks.
 
 ### Week 7-8: File Handling and Modules
 
