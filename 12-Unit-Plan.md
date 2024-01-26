@@ -19,15 +19,15 @@
 - **Unit 3.1**: Learn to write functions, understand scope, and pass arguments. Explore built-in functions.
 - **Unit 3.2**: Basics of error and exception handling. Understand try-except blocks.
 
-### Unit 7-8: File Handling and Modules
+### Unit 4: File Handling and Modules
 
-- **Unit 7**: Introduction to file handling - reading from and writing to files.
-- **Unit 8**: Learn about Python modules and how to import them. Explore a few standard libraries.
+- **Unit 4.1**: Introduction to file handling - reading from and writing to files.
+- **Unit 4.2**: Learn about Python modules and how to import them. Explore a few standard libraries.
 
 ### Unit 9-10: Object-Oriented Programming
 
 - **Unit 9**: Introduction to classes and objects. Understand the basics of object-oriented programming.
-- **Unit 10**: Dive deeper into OOP concepts - inheritance, encapsulation, and polymorphism.
+- **Unit 10**: Dive deeper into OOP concepts—inheritance, encapsulation, and polymorphism.
 
 ### Unit 11-12: Mini Projects and Review
 
