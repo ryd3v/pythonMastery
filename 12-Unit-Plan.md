@@ -1,4 +1,4 @@
-### Unit 1-2: Python Basics
+### Unit 1: Python Basics
 
 - **Unit 1**: Introduction to Python, Setup Python environment 
 - **Unit 1.2**: Python syntax and concepts, and write basic programs.
@@ -8,16 +8,16 @@
 - **Unit 1.6**: Booleans and Comparison Operators
 - **Unit 1.7**: Basic Input/Output and Practice
 
-### Unit 3–4: Control Structures and Data Structures
+### Unit 2: Control Structures and Data Structures
 
-- **Unit 3**: Focus on control structures - if statements, for and while loops, break and continue statements.
-- **Unit 4**: Introduction to basic data structures - lists, tuples, sets, and dictionaries. Practice creating and
+- **Unit 2.1**: Focus on control structures - if statements, for and while loops, break and continue statements.
+- **Unit 2.2**: Introduction to basic data structures - lists, tuples, sets, and dictionaries. Practice creating and
   manipulating them.
 
-### Unit 5-6: Functions and Error Handling
+### Unit 3: Functions and Error Handling
 
-- **Unit 5**: Learn to write functions, understand scope, and pass arguments. Explore built-in functions.
-- **Unit 6**: Basics of error and exception handling. Understand try-except blocks.
+- **Unit 3.1**: Learn to write functions, understand scope, and pass arguments. Explore built-in functions.
+- **Unit 3.2**: Basics of error and exception handling. Understand try-except blocks.
 
 ### Unit 7-8: File Handling and Modules
 
