@@ -44,3 +44,5 @@
 
 Remember, consistency is key. Adjust the pace according to your learning speed and comfort. The goal is to build a solid
 foundation, not to rush through the topics.
+
+Updated 04-11-2024
