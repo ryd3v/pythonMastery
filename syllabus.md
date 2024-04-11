@@ -24,15 +24,15 @@
 - **Unit 4.1**: Introduction to file handling - reading from and writing to files.
 - **Unit 4.2**: Learn about Python modules and how to import them. Explore a few standard libraries.
 
-### Unit 9-10: Object-Oriented Programming
+### Unit 5-6: Object-Oriented Programming
 
-- **Unit 9**: Introduction to classes and objects. Understand the basics of object-oriented programming.
-- **Unit 10**: Dive deeper into OOP concepts—inheritance, encapsulation, and polymorphism.
+- **Unit 5**: Introduction to classes and objects. Understand the basics of object-oriented programming.
+- **Unit 6**: Dive deeper into OOP concepts—inheritance, encapsulation, and polymorphism.
 
-### Unit 11-12: Mini Projects and Review
+### Unit 7-8: Mini Projects and Review
 
-- **Unit 11**: Start working on a simple project, like a calculator, a basic game, or a simple data processing tool.
-- **Unit 12**: Review all the topics. Revisit areas where you feel less confident and refine your project.
+- **Unit 7**: Start working on a simple project, like a calculator, a basic game, or a simple data processing tool.
+- **Unit 8**: Review all the topics. Revisit areas where you feel less confident and refine your project.
 
 ### Additional Tips:
 
